@@ -1,3 +1,6 @@
 introduction to git
 
 Git init done 
+
+git remote code pushes also done 
+
