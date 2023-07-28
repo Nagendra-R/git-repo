@@ -4,3 +4,4 @@ Git init done
 
 git remote code pushes also done 
 
+branch checking checkup in two branch
