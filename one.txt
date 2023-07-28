@@ -1,0 +1,3 @@
+introduction to git
+
+Git init done 
